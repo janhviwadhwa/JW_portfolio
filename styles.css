@@ -18,7 +18,7 @@ body {
     animation: move-stars 20s linear infinite;
 }
 
-.stars {
+/* .stars {
     background: url('https://i.imgur.com/pgCV7bG.png') repeat top center;
     z-index: 1;
 }
@@ -33,7 +33,7 @@ body {
     background: url('https://i.imgur.com/pgCV7bG.png') repeat top center;
     animation-delay: 10s;
     z-index: 3;
-}
+} */
 
 @keyframes move-stars {
     from {
